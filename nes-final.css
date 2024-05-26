@@ -1,0 +1,36 @@
+
+#body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(204, 120, 200);
+}
+
+
+#container{
+    width: 350px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    
+}
+#container img{
+    width:100px ;
+    height:100px ;
+}
+
+#lines img{
+    width:250px ;
+    height:100px ;
+}
+
+#lines{
+    width: 250px ;
+    height: 300px ;
+    display: flex;
+    flex-direction: column; 
+    margin-top:15px;
+    margin-left:-250px;
+}
+
+
